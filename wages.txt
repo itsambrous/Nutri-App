@@ -1,0 +1,12 @@
+Employee       Salary (€)
+--------------------------
+CEO            €150,000
+CFO            €120,000
+Head 1         €90,000
+Head 2         €85,000
+Head 3         €80,000
+Subordinate 1  €60,000
+Subordinate 2  €55,000
+Subordinate 3  €50,000
+Intern 1       €30,000
+Intern 2       €30,000
