@@ -1,0 +1,3 @@
+# This is my git ignore file, to hide all txt which are sensible information
+# Ignore wages and possible annotations
+*txt
